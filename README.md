@@ -2,6 +2,8 @@
 
 "Self-supervised data lakes discovery through unsupervised metadata-driven weighted similarity".
 
+DOI: https://doi.org/10.1016/j.ins.2024.120242
+
 ***
 The description of the files:
 - **Discovery.LSH.Networkx.Module.ipynb**: The module which performs the most data-discovery tasks
